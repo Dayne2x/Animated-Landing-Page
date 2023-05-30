@@ -21,9 +21,9 @@ Showcase of a basic website landing page built with HTML and CSS. The website is
 - Build out the project to the designs provided
 
 ### Screenshot
-| ![](./design/desktop-design.jpg) | ![](./design/mobile-design.jpg) |
-| ------------------------------ | ----------------------------- |
-| Desktop version                | Mobile version                |
+| ![](./design/design.jpg)      |
+| ------------------------------|
+| Desktop version               |
 
 ### Links
 
